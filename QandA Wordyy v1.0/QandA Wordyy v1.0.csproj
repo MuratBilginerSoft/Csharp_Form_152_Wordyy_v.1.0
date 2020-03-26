@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1A63A580-D708-45E6-B89B-C36378D7F6B3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QandA_Wordyy_v1._0</RootNamespace>
+    <AssemblyName>QandA Wordyy v1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Başlangıç.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Başlangıç.Designer.cs">
+      <DependentUpon>Başlangıç.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YöneticiPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YöneticiPanel.Designer.cs">
+      <DependentUpon>YöneticiPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="İngilizce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İngilizce.Designer.cs">
+      <DependentUpon>İngilizce.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Başlangıç.resx">
+      <DependentUpon>Başlangıç.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YöneticiPanel.resx">
+      <DependentUpon>YöneticiPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="İngilizce.resx">
+      <DependentUpon>İngilizce.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19 ArkaPlan.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash-pattern-ground-back-background-dalegarn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18 Menü.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8 İşlemler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5 Bilgi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13 Çıkış.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sarkac2_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1541474.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8a9yt7o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27 SolOk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\artleo.com-8156.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\artleo.com-81561.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dededede.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\55.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

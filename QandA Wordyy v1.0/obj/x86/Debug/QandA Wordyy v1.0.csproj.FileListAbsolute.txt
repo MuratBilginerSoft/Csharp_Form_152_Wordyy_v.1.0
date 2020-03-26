@@ -1,0 +1,28 @@
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\bin\Debug\QandA Wordyy v1.0.exe
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\bin\Debug\QandA Wordyy v1.0.pdb
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Form1.resources
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Properties.Resources.resources
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Türkçe.resources
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.İngilizce.resources
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.csproj.GenerateResource.Cache
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.exe
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.pdb
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.exe
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.pdb
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\bin\Debug\QandA Wordyy v1.0.exe
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\bin\Debug\QandA Wordyy v1.0.pdb
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Başlangıç.resources
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.İngilizce.resources
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\QandA Wordyy v1.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.YöneticiPanel.resources
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\bin\Debug\QandA Wordyy v1.0.exe
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\bin\Debug\QandA Wordyy v1.0.pdb
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.csprojAssemblyReference.cache
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Başlangıç.resources
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.YöneticiPanel.resources
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.Properties.Resources.resources
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA_Wordyy_v1._0.İngilizce.resources
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.csproj.GenerateResource.cache
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.exe
+G:\OneDrive\03 Software\02 Github Projects\06 C# Proje Depo\03 Systen Projects\16 Wordyy v3.0\QandA Wordyy v1.0\obj\x86\Debug\QandA Wordyy v1.0.pdb
